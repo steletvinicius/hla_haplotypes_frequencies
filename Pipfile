@@ -5,9 +5,9 @@ name = "pypi"
 
 [packages]
 streamlit = "*"
-openpyxl = *
 
 [dev-packages]
 
 [requires]
 python_version = "3.8"
+openpyxl = *
