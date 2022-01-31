@@ -28,21 +28,21 @@ alleles =   {
     'HLA-DPB1': 'Global_HLA-DPB1_Locus_Summary_2018-08-01.xlsx',
 }
 
-family_haplotypes = {
+family_haplotypes = { 
     "A~C~B":                                    'Global_ACB_Haplotype_Summary_2018-08-01.xlsx',
     "A~C~B~DRB1~DQB1":                          'Global_ACBDRB1DQB1_Haplotype_Summary_2018-08-01.xlsx',
     "A~C~B~DRB345~DRB1~DQA1~DQB1":            'Global_ACBDRDQ_Haplotype_Summary_2018-07-31.xlsx',
     "C~B":                                      'Global_CB_Haplotype_Summary_2018-08-01.xlsx',
     "C~B~DRB1~DQB1":                            'Global_CBDRB1DQB1_Haplotype_Summary_2018-08-01.xlsx',
-    "C~B-DRB345~DRB1~DQA1~DQB1":              'Global_CBDRDQ_Haplotype_Summary_2018-07-31.xlsx',
-    'C~B-DRB345~DRB1~DQA1~DQB1~DPA1~DPB1':    'Global_CBDRDQDP_Haplotype_Summary_2018-07-31.xlsx',
+    "C~B~DRB345~DRB1~DQA1~DQB1":              'Global_CBDRDQ_Haplotype_Summary_2018-07-31.xlsx',
+    'C~B~DRB345~DRB1~DQA1~DQB1~DPA1~DPB1':    'Global_CBDRDQDP_Haplotype_Summary_2018-07-31.xlsx',
     "DPA1~DPB1":                                'Global_DP_Haplotype_Summary_2018-07-31.xlsx',
     "DQA1~DQB1":                                'Global_DQ_Haplotype_Summary_2018-07-31.xlsx',
     'DRB345~DRB1':                            'Global_DR_Haplotype_Summary_2018-07-31.xlsx',
     "DRB1~DQB1":                                'Global_DRB1DQB1_Haplotype_Summary_2018-08-01.xlsx',
     'DRB345~DRB1~DQA1~DQB1':                  'Global_DRDQ_Haplotype_Summary_2018-07-31.xlsx',
     'DRB345~DRB1~DQA1~DQB1~DPA1~DPB1':        'Global_DRDQDP_Haplotype_Summary_2018-07-31.xlsx',
-    'A~C~B-DRB345-DRB1~DQA1~DQB1~DPA1~DPB1':  'Global_Full_Haplotype_Summary_2018-08-01.xlsx'
+    'A~C~B~DRB345~DRB1~DQA1~DQB1~DPA1~DPB1':  'Global_Full_Haplotype_Summary_2018-08-01.xlsx'
 }
 
 unrelated_haplotypes = {
