@@ -42,7 +42,7 @@ family_haplotypes = {
     "DRB1~DQB1":                                'Global_DRB1DQB1_Haplotype_Summary_2018-08-01.xlsx',
     'DRB345~DRB1~DQA1~DQB1':                  'Global_DRDQ_Haplotype_Summary_2018-07-31.xlsx',
     'DRB345~DRB1~DQA1~DQB1~DPA1~DPB1':        'Global_DRDQDP_Haplotype_Summary_2018-07-31.xlsx',
-    'A~C~B~DRB345~DRB1~DQA1~DQB1~DPA1~DPB1':  'Global_Full_Haplotype_Summary_2018-08-01.xlsx'
+    'A~C~B~DRB345~DRB1~DQA1~DQB1~DPA1~DPB1':  'Global_Full_Haplotype_Summary_2018-07-31.xlsx'
 }
 
 unrelated_haplotypes = {
@@ -210,7 +210,7 @@ with st.sidebar:
     button_one  =   st.button('Submit')
 
 
-col_one, col_two = st.columns(2)
+col_one, col_two = st.columns([2,3])
 
 
 if button_one:
